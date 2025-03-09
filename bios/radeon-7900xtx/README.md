@@ -15,6 +15,9 @@ This custom BIOS provides increased power limits and overclocking potential for 
 5. Follow the software instructions to flash the custom BIOS to the Radeon 7900XTX.
 6. Once the flashing process is complete, disconnect the CH341A USB programmer and reboot your computer.
 
+## Assembly Code Integration
+The custom BIOS file `7900XTX-CUSTOM.rom` now includes integrated assembly code to increase power limits and enhance overclocking potential. This integration ensures optimal performance and stability for the Radeon 7900XTX.
+
 ## Troubleshooting
 If you encounter any issues during the installation process, please follow these steps:
 1. Ensure that the CH341A USB programmer is properly connected to both the computer and the Radeon 7900XTX.
