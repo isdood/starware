@@ -15,3 +15,7 @@ Drivers, custom BIOS &amp; utilities for devices otherwise unsupported elsewhere
 - Custom BIOS support added
 - Features include AI tools for managing DDR5 timings and overclocking, and tools for creating RAID partitions with native Arch Linux support
 - Installation instructions and features can be found in the `bios/asus-x870a/README.md`
+
+### Radeon 7900XTX
+- Custom BIOS support added
+- Installation instructions and features can be found in the `bios/radeon-7900xtx/README.md`
